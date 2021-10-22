@@ -1,4 +1,4 @@
-import mysql.connector
+
 while True:
     name = input("Enter you name: ")
     age = input("Enter age: ")
