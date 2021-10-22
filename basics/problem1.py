@@ -14,10 +14,10 @@ def sum_divisors(n):
 # # 55
 # print(sum_divisors(102)) # Should be sum of 2+3+6+17+34+51
 # 114
-sum=0
+sum = 0
 i = 1
 while 10 % i == 0 and i < 10:
     print(i)
-    sum =sum+i
+    sum = sum+i
     i += 1
 print(sum)
