@@ -1,3 +1,4 @@
+#%%
 def print_picnic(items_list,left,right):
     print('Picnic Items'.center(left+right, '*'))
     for item,quan in picnic_items.items():

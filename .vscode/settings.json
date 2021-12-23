@@ -1,4 +1,7 @@
 {
+<<<<<<< HEAD
+	"python.formatting.provider": "black"
+=======
 	"workbench.colorCustomizations": {
 		"activityBar.activeBackground": "#3a5068",
 		"activityBar.activeBorder": "#29171f",
@@ -22,4 +25,5 @@
 		"titleBar.inactiveForeground": "#e7e7e799"
 	},
 	"peacock.color": "#283747"
+>>>>>>> b300a9cba49d0fce06cc02f8ce8664a25eae00ba
 }
